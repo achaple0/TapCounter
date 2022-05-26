@@ -46,6 +46,7 @@ button {
     font-size: 2em;
     background-color: rgba(169, 199, 255, 0.787);
     font-weight: 300;
+    touch-action: manipulation;
 }
 
 button:hover {
